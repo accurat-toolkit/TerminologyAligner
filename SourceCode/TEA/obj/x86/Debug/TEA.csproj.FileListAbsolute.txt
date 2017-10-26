@@ -1,0 +1,12 @@
+D:\Work\C#\TEA\TEA\bin\Debug\TEA.exe
+D:\Work\C#\TEA\TEA\bin\Debug\TEA.pdb
+D:\Work\C#\TEA\TEA\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Work\C#\TEA\TEA\obj\x86\Debug\TEA.exe
+D:\Work\C#\TEA\TEA\obj\x86\Debug\TEA.pdb
+d:\Work\!ACCURAT\TEA\TEA\obj\x86\Debug\TEA.exe
+d:\Work\!ACCURAT\TEA\TEA\obj\x86\Debug\TEA.pdb
+d:\Work\!ACCURAT\TEA\TEA\bin\Debug\TEA.exe
+d:\Work\!ACCURAT\TEA\TEA\bin\Debug\TEA.pdb
+d:\Work\!ACCURAT\TEA\TEA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\marcis.pinnis\Documents\Visual Studio 2010\Projects\TEA\TEA\obj\x86\Debug\TEA.exe
+C:\Users\marcis.pinnis\Documents\Visual Studio 2010\Projects\TEA\TEA\obj\x86\Debug\TEA.pdb

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <StartArguments>--input en-lv.txt --source en --target lv --output results_ro-lv.txt</StartArguments>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <StartArguments>--input "C:\\Users\\marcis.pinnis\\Documents\\Visual Studio 2010\\Projects\\TEA\\TEA\\bin\\Release\\EN-LT.lst" --output "C:\\Users\\marcis.pinnis\\Documents\\Visual Studio 2010\\Projects\\TEA\\TEA\\bin\\Release\\out_lt.txt"  --source en --target lv --param "aa=FALSE"</StartArguments>
+  </PropertyGroup>
+</Project>

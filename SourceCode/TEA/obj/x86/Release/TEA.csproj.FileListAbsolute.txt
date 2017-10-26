@@ -1,0 +1,5 @@
+C:\Users\marcis.pinnis\Documents\Visual Studio 2010\Projects\TEA\TEA\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\marcis.pinnis\Documents\Visual Studio 2010\Projects\TEA\TEA\bin\Release\TerminologyAligner.exe
+C:\Users\marcis.pinnis\Documents\Visual Studio 2010\Projects\TEA\TEA\bin\Release\TerminologyAligner.pdb
+C:\Users\marcis.pinnis\Documents\Visual Studio 2010\Projects\TEA\TEA\obj\x86\Release\TerminologyAligner.exe
+C:\Users\marcis.pinnis\Documents\Visual Studio 2010\Projects\TEA\TEA\obj\x86\Release\TerminologyAligner.pdb
